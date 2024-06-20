@@ -30,7 +30,7 @@ https://luminous-cucurucho-42f444.netlify.app/
 
 ## Contributors:
 
-- Akash
+- Sarfraz Alam
 - Divya
 - Manoj
 - Rajat
